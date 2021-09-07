@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../hermione/__IMPLEMENTED_BASE__/src'))
+sys.path.insert(0, os.path.abspath('../hermione/module_templates/__IMPLEMENTED_BASE__/src'))
 
 project = "Hermione"
 
