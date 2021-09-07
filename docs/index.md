@@ -37,8 +37,15 @@ QuickStart
 ProjectStructure
 
 ```
-.. automodule:: hermione.__IMPLEMENTED_BASE__.src
-    :members:
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: API Documentation
+
+api
+
+```
 
 ```{toctree}
 :maxdepth: 2
