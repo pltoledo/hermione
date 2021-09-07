@@ -1,3 +1,6 @@
+API Documentation
+=======================================================
+
 .. automodule:: trainer
     :members:
     :undoc-members:
