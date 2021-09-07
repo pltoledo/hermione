@@ -12,5 +12,3 @@ extensions = [
 ]
 # html_theme = "sphinx_rtd_theme"
 source_suffix = [".rst", ".md"]
-
-master_doc = 'index'
