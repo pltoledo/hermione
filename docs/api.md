@@ -2,5 +2,5 @@
 
 ## Teste
 
-.. automodule:: hermione.__IMPLEMENTED_BASE__.src.ml.model.trainer
+.. automodule:: ml.model.trainer
     :members:
